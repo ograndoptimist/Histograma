@@ -49,5 +49,3 @@ void freq(char (*palavras)[150], int* tamanhos, int* frequencias, int cont)
 void imprimeHistograma(void)
 {
 }
-
-
